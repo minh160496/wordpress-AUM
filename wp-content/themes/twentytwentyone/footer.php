@@ -13,6 +13,151 @@
 
 ?>
 			</main><!-- #main -->
+			<div class="footer">
+				<div class="foot-title-botton">
+					<div class="foot-logo"> 
+						<a href="#" rel="home">
+						<img width="122" height="36" src="https://eduma.thimpress.com/demo-udemy/wp-content/uploads/sites/93/2022/03/logo-udemy-white.png" class="foot-title-img" alt="" loading="lazy"> </a>
+					</div>
+					<div class="foot-title-content">
+					<ul class="foot_menu_botton--content">
+						<li>
+							<a href="tel:%20(04)%20495-9400%201-800-544-2787" target="_blank" rel="noopener">
+							<span>
+							<i aria-hidden="true" class="tk tk-phone"></i> </span>
+							(04) 495-9400 1-800-544-2787 </a>
+						</li>
+						<li style="color:#848E99">
+							<span>
+							<i aria-hidden="true" class="tk tk-map-marker"></i>  </span>
+							A24BT5 Building London, England 
+						</li>
+						<li>
+							<a href="mailto:contact@thimpress.com" target="_blank" rel="noopener">
+							<span>
+							<i aria-hidden="true" class="foot_menu_botton--span"></i> </span>
+							contact@thimpress.com </a>
+						</li>
+						<li style="color:#848E99">
+							<span>
+							<i aria-hidden="true" class="far fa-clock"></i> </span>
+							Daily: 10:00 Am - 5:00 Pm Monday &amp; Holiday: Closed 
+						</li>
+					</ul>
+
+					</div>
+				</div>
+				<div class="foot_menu_botton">
+					<div class="foot_menu_botton--title "><h4 class="title">Menu</h4></div>
+					<ul class="foot_menu_botton--content">
+						<li>
+							<a href="#" target="_blank" rel="noopener">
+							Classes </a>
+						</li>
+					<li>
+						<a href="#" target="_blank" rel="noopener">
+						Programs </a>
+					</li>
+					<li>
+						<a href="#" target="_blank" rel="noopener">
+						About Us </a>
+					</li>
+					<li>
+						<a href="#" target="_blank" rel="noopener">
+						Team </a>
+					</li>
+					<li>
+						<a href="#" target="_blank" rel="noopener">
+						Contact </a>
+					</li>
+					</ul>
+					
+				</div>
+				<div class="foot_menu_botton">
+					<div class="foot_menu_botton--title "><h4 class="title">Courses</h4></div>
+					<ul class="foot_menu_botton--content">
+						<li>
+							<a href="#" target="_blank" rel="noopener">
+							Classes </a>
+						</li>
+					<li>
+						<a href="#" target="_blank" rel="noopener">
+						Programs </a>
+					</li>
+					<li>
+						<a href="#" target="_blank" rel="noopener">
+						About Us </a>
+					</li>
+					<li>
+						<a href="#" target="_blank" rel="noopener">
+						Team </a>
+					</li>
+					<li>
+						<a href="#" target="_blank" rel="noopener">
+						Contact </a>
+					</li>
+					</ul>
+					
+				</div>
+				<div class="foot_menu_botton">
+					<div class="foot_menu_botton--title "><h4 class="title">Topics</h4></div>
+					<ul class="foot_menu_botton--content">
+						<li>
+							<a href="#" target="_blank" rel="noopener">
+							Classes </a>
+						</li>
+					<li>
+						<a href="#" target="_blank" rel="noopener">
+						Programs </a>
+					</li>
+					<li>
+						<a href="#" target="_blank" rel="noopener">
+						About Us </a>
+					</li>
+					<li>
+						<a href="#" target="_blank" rel="noopener">
+						Team </a>
+					</li>
+					<li>
+						<a href="#" target="_blank" rel="noopener">
+						Contact </a>
+					</li>
+					</ul>
+					
+				</div>
+				<div class="foot_menu_botton">
+					<div class="foot_menu_botton--title "><h4 class="title">Info For</h4></div>
+					<ul class="foot_menu_botton--content">
+						<li>
+							<a href="#" target="_blank" rel="noopener">
+							Classes </a>
+						</li>
+					<li>
+						<a href="#" target="_blank" rel="noopener">
+						Programs </a>
+					</li>
+					<li>
+						<a href="#" target="_blank" rel="noopener">
+						About Us </a>
+					</li>
+					<li>
+						<a href="#" target="_blank" rel="noopener">
+						Team </a>
+					</li>
+					<li>
+						<a href="#" target="_blank" rel="noopener">
+						Contact </a>
+					</li>
+					</ul>
+					
+				</div>
+				
+			</div>
+			<div class="foot_botton_link">
+				<div class="foot_botton_link--title">
+				<p class="foot_botton_link--titlecontent"><a href="#">Premium LMS &amp; Online Education WordPress Theme</a></p> </div>
+			</div>
+			
 		</div><!-- #primary -->
 	</div><!-- #content -->
 
